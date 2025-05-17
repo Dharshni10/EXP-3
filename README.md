@@ -1,6 +1,7 @@
-# Aim:
+# Experiment 3: Supply Chain Transparency for Luxury Goods
+## Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
-# Algorithm:
+## Algorithm:
 The manufacturer records product creation details on-chain.
 
 
@@ -13,7 +14,7 @@ The ownership of the product can be transferred securely.
 Buyers can verify the product’s authenticity.
 
 
-# Program:
+## Program:
 ### Name : Dharshni V M
 ### Register Number : 212223240029
 ```
@@ -50,7 +51,7 @@ contract LuxurySupplyChain {
     }
 }
 ```
-# Expected Output:
+## Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
 
 
@@ -59,7 +60,7 @@ Ownership is transferred at every checkpoint.
 
 Buyers can check the authenticity before purchasing.
 
-# Output:
+## Output:
 
 ![Output 1](https://github.com/user-attachments/assets/5fd131c0-d832-4128-8fc7-f7b619d3c1bf)
 
@@ -69,11 +70,11 @@ Buyers can check the authenticity before purchasing.
 
 ![Output 4](https://github.com/user-attachments/assets/cb76eb0c-b2f3-498a-9ef0-0d695dbe90a6)
 
-# High-Level Overview:
+## High-Level Overview:
 Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
 
-# RESULT : 
+## RESULT : 
 Thus, the execution of the suplly chain Transpanrency for Luxury Goods has executed successfully.
